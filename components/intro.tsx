@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://dyras.biz.id/images.jpeg"
+              href="images.jpeg"
               alt="Dyra portrait"
               width="192"
               height="192"
