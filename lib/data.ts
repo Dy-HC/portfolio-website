@@ -43,44 +43,30 @@ export const experiencesData = [
     date: "2019",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "Mempelajari Web Development",
+    location: "",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "Di pertengahan tahun 2022, saya mulai mempelajari Web Development. Saya juga akan meningkatkan keterampilan saya dalam Web Development.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "2022 - Sekarang",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Mengembangkan Game Server",
+    location: "",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "Saya mengembangkan Source Game Server. Dengan menggunakan bahasa C++/C#. Saya mengembangkan Source tersebut lalu menjual nya kembali.",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "2021 - 2022",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "App/Web Kelas",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "Saya membuat App/Web kelas saya selama berminggu-minggu. Ini dapat memudahkan murid 8A dalam melihat jadwal Piket dan Pelajaran. Jadwal Piket dan Pelajaran menggunakan algoritma Javascript dari hari Senin - Jumat. (App/Web ini tidak dipakai ataupun dihargai oleh semua teman saya)",
+    tags: ["React", "Vite.js", "Firebase", "Tailwind", "Javascript"],
     imageUrl: corpcommentImg,
-  },
-  {
-    title: "rmtDev",
-    description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
-  },
-  {
-    title: "Word Analytics",
-    description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
   },
 ] as const;
 
