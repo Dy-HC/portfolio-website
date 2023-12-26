@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
+import kelasImg from "@/public/kelas.jpg";
 
 export const links = [
   {
@@ -35,12 +36,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Mempelajari Hacking",
+    location: "",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "Saya mempelajari Hacking. Tapi hanya sedikit saja.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2023",
   },
   {
     title: "Mempelajari Web Development",
@@ -66,7 +67,7 @@ export const projectsData = [
     description:
       "Saya membuat App/Web kelas saya selama berminggu-minggu. Ini dapat memudahkan murid 8A dalam melihat jadwal Piket dan Pelajaran. Jadwal Piket dan Pelajaran menggunakan algoritma Javascript dari hari Senin - Jumat. (App/Web ini tidak dipakai ataupun dihargai oleh semua teman saya)",
     tags: ["React", "Vite.js", "Firebase", "Tailwind", "Javascript"],
-    imageUrl: corpcommentImg,
+    imageUrl: kelasImg,
   },
 ] as const;
 
