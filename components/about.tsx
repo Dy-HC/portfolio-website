@@ -19,30 +19,23 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        Ketika saya menduduki bangku kelas 6 SD{" "}
+        saya memulai coding tanpa pengetahuan apapun, Ya anda tidak salah lihat
+        saat itu saya mengembangkan source sebuah game server berbasis C++/C#. Disitu saya sangat pusing karena sangat susah{" "}
+        tapi saya tidak menyerah dan saya terus mengembangkan game server tersebut sambil belajar.{" "}
+        Disaat itu saya sangat suka membuat Program dan Coding, lalu saya mencoba Coding Website
+        pada saat itu saya belajar Bahasa Markup atau HTML dan juga CSS, setelah menguasai HTML dan CSS,
+        saya melanjutkan mempelajari Javascript. Tapi saya merasa ini tidak cukup, lalu saya mulai mempelajari 
+        {" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          React, Next.js, PHP
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        . Saya juga suka mempelajari MySQL dengan Prisma. Saya selalu ingin mempelajari Bahasa Pemrograman baru.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        <span className="italic">Ketika saya tidak sedang coding</span>, saya menikmati dengan main Game dan melihat video dan juga film. 
+        Saya juga sedang berusaha mempelajari Matematika ;).
       </p>
     </motion.section>
   );
