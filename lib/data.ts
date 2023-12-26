@@ -43,20 +43,20 @@ export const experiencesData = [
     date: "2019",
   },
   {
-    title: "Mempelajari Web Development",
-    location: "",
+    title: "Front-End Developer",
+    location: "Orlando, FL",
     description:
-      "Di pertengahan tahun 2022, saya mulai mempelajari Web Development. Saya juga akan meningkatkan keterampilan saya dalam Web Development.",
+      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
     icon: React.createElement(CgWorkAlt),
-    date: "2022 - Sekarang",
+    date: "2019 - 2021",
   },
   {
-    title: "Mengembangkan Game Server",
-    location: "",
+    title: "Full-Stack Developer",
+    location: "Houston, TX",
     description:
-      "Saya mengembangkan Source Game Server. Dengan menggunakan bahasa C++/C#. Saya mengembangkan Source tersebut lalu menjual nya kembali.",
+      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2021 - 2022",
+    date: "2021 - present",
   },
 ] as const;
 
@@ -76,12 +76,11 @@ export const projectsData = [
     imageUrl: rmtdevImg,
   },
   {
-    title: "App/Web Kelas",
+    title: "Word Analytics",
     description:
-      "Saya membuat App/Web kelas saya selama berminggu-minggu. Ini dapat memudahkan murid 8A dalam melihat jadwal Piket dan Pelajaran. 
-      Jadwal Piket dan Pelajaran menggunakan algoritma Javascript dari hari Senin - Jumat (Tidak dipakai ataupun dihargai oleh semua teman saya)",
-    tags: ["React", "Vite.js", "Firebase", "Tailwind", "Javascript"],
-    imageUrl: corpcommentImg,
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: wordanalyticsImg,
   },
 ] as const;
 
@@ -89,12 +88,20 @@ export const skillsData = [
   "HTML",
   "CSS",
   "JavaScript",
+  "TypeScript",
   "React",
   "Next.js",
-  "Vite.js",
-  "NodeJS",
+  "Node.js",
+  "Git",
   "Tailwind",
   "Prisma",
-  "MySQL",
+  "MongoDB",
+  "Redux",
+  "GraphQL",
+  "Apollo",
+  "Express",
+  "PostgreSQL",
   "Python",
+  "Django",
+  "Framer Motion",
 ] as const;
