@@ -23,7 +23,7 @@ export default function About() {
         saya memulai coding tanpa pengetahuan apapun, Ya anda tidak salah lihat
         saat itu saya mengembangkan source sebuah game server berbasis C++/C#. Disitu saya sangat pusing karena sangat susah{" "}
         tapi saya tidak menyerah dan saya terus mengembangkan game server tersebut sambil belajar.{" "}
-        Disaat itu saya sangat suka membuat Program dan Coding, lalu saya mencoba Coding Website
+        Setelah berlama - lama mempelajari Coding, saya sangat suka membuat Program dan Coding, lalu saya mencoba Coding Website
         pada saat itu saya belajar Bahasa Markup atau HTML dan juga CSS, setelah menguasai HTML dan CSS,
         saya melanjutkan mempelajari Javascript. Tapi saya merasa ini tidak cukup, lalu saya mulai mempelajari 
         {" "}
