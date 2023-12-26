@@ -45,7 +45,7 @@ export const experiencesData = [
     location: "",
     description:
       "Saya mempelajari Hacking. Tapi hanya sedikit saja.",
-    icon: React.createElement(LuGraduationCap),
+    icon: React.createElement(DiRedhat),
     date: "2023",
   },
   {
@@ -53,7 +53,7 @@ export const experiencesData = [
     location: "",
     description:
       "Di pertengahan tahun 2022, saya mulai mempelajari Web Development. Saya juga akan meningkatkan keterampilan saya dalam Web Development.",
-    icon: React.createElement(CgWorkAlt),
+    icon: React.createElement(BsCodeSlash),
     date: "2022 - Sekarang",
   },
   {
@@ -61,7 +61,7 @@ export const experiencesData = [
     location: "",
     description:
       "Saya mengembangkan Source Game Server. Dengan menggunakan bahasa C++/C#. Saya mengembangkan Source tersebut lalu menjual nya kembali.",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(BsAndroid),
     date: "2021 - 2022",
   },
 ] as const;
