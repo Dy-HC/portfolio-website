@@ -76,11 +76,12 @@ export const projectsData = [
     imageUrl: rmtdevImg,
   },
   {
-    title: "Word Analytics",
+    title: "App/Web Kelas",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "Saya membuat App/Web kelas saya selama berminggu-minggu. Ini dapat memudahkan murid 8A dalam melihat jadwal Piket dan Pelajaran. 
+      Jadwal Piket dan Pelajaran menggunakan algoritma Javascript dari hari Senin - Jumat (Tidak dipakai ataupun dihargai oleh semua teman saya)",
+    tags: ["React", "Vite.js", "Firebase", "Tailwind", "Javascript"],
+    imageUrl: corpcommentImg,
   },
 ] as const;
 
